@@ -1,0 +1,5 @@
+# Boas vindas ao repositório do projeto de Receitas!
+
+Nesse projeto pude partilhar de uma 'codagem' com mais três colegas utilizando metodologias ágeis. A organização para o desenvolvimento foi de suma importância, guiada com a ferramenta do Trello (como kanban) e as objetivas e extremamente acertivas Daily Meetings onde o grupo pode colocar em prática todas as habilidades de soft skills. 
+React-Redux foi a base para o desenvolvimeto dessa aplicação onde foi obtido um resultado e nível de responsividade muito bom, no quesito estilizção o grupo concordou em deixar sobre responsabilidade de um dos integrantes onde o mesmo não conseguiu contribuir em um nível mais intermediário na hard skill do react-redux e ficou com a responsabilidade da estilação, podendo assim contribuir e ser incluso no desenvolvimento. 
+Obs: Me orgulho muito desse projeto, pois pude notar pela primeira vez como trabalhar em grupo de forma saudável e cooperativa foi extremamente importante para a conclusão e entrega antes do prazo!
